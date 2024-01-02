@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "admin",
-    "slug": "an interactive admin panal",
+    "slug": "admin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/logo.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb4bcaab-d926-42d3-9446-85c238afebae"
+      }
+    },
+    "owner": "arjun6261"
   }
 }
