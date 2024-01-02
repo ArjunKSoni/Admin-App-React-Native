@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#000000"
-      }
+      },
+      "package": "com.arjun6261.admin"
     },
     "web": {
       "favicon": "./assets/logo.png"
